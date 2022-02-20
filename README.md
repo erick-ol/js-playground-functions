@@ -1,6 +1,6 @@
 ## Playground Functions
 
-This was a project developed in the [Software Development Course at Trybe](https://www.betrybe.com/formacao-desenvolvimento-web) as a challenge while I was learning how to use JavaScript and how to have programming logic. Made on ```June 2, 2021```
+This was a project developed in the [Software Development Course at Trybe](https://www.betrybe.com/formacao-desenvolvimento-web) as a challenge while I was learning how to use JavaScript and how to have programming logic. Made on ```June 2nd, 2021```
 
 ### How to download and run the project code
 
